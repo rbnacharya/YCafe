@@ -2,11 +2,13 @@ YCafe
 =====
 
 A Distributed Cyber Cafe software created by final year students. 
+
 Motivations:
      - Manual system in cyber cafe
      - Unorganized user management
      - Unorganized or loosely organized terminals
      - Bad visualization of data
+
  Features:
     - Bandwidth management
     - Resource management
